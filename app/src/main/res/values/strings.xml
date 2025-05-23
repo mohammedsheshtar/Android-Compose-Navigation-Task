@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android-Compose-Navigation-Task</string>
+    <string name="welcome_message">Welcome to ParcelTrack Inc.!</string>
 </resources>
